@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Kazak",
+        "price": 150,
+        "image": "https://cdn.dsmcdn.com/mnresize/500/-/ty530/product/media/images/20220911/12/173042579/564933839/1/1_org.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Ceket",
+        "price": 200,
+        "image": "https://static.ticimax.cloud/42396/uploads/urunresimleri/buyuk/dikis-detayli-blazer-krem-kadin-ceket--9a4b-.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Tişört",
+        "price": 100,
+        "image": "https://productimages.hepsiburada.net/s/122/600-800/110000071544335.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Pantolon",
+        "price": 250,
+        "image": "https://image.tofisa.com/12017-mavi-kot-pantloon-kot-pantolon-tofisa-tesettur-giyim-249395-44-B.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Şapka",
+        "price": 50,
+        "image": "https://cdn3.sorsware.com/addax/ContentImages/Product/2020-yaz-sezonu/ADX-0000022993/suet-sapka-spk1037-e3_adx-0000022993_siyah-siyah_1_buyuk.jpg"
+    }
+
+]
